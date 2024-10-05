@@ -1,4 +1,4 @@
-## Run in CloudShell and follow video:
+## Run in CloudShell:
 
 ```
 export REGION=REGION
