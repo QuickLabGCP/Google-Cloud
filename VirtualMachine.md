@@ -1,11 +1,11 @@
 ## Run in CloudShell:
 
 ```
-export REGION=REGION
+export REGION=
 ```
 
 ```
-export ZONE=Zone
+export ZONE=
 ```
 
 ```
