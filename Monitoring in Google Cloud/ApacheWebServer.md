@@ -8,6 +8,7 @@ sudo chmod +x techcps1108.sh
 ./techcps1108.sh
 ```
 
+
 ### Congratulations, you're all done with the lab 
 
 ---
